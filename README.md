@@ -83,7 +83,6 @@
 ---
 
 ### 📫 Let's Connect
-
 <p align="center">
   <a href="https://www.linkedin.com/in/kishorkumar28/">LinkedIn</a> •
   <a href="mailto:bkishorkumar31@gmail.com">Email</a> •
