@@ -57,7 +57,6 @@
 ---
 
 ### 📌 Featured Projects
-
 | Project | Description | Stack |
 |---|---|---|
 | **Employee Management System** *(suggested project)* | A CRUD-based system for managing employee records, departments, and roles — REST APIs secured with Spring Security, layered architecture (Controller-Service-Repository), MySQL persistence via JPA/Hibernate. This is the single best repo to add right now: recruiters screening for "Java Full Stack" specifically look for a Spring Boot + relational DB + REST project. | Java, Spring Boot, Spring Security, MySQL, React |
