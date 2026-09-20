@@ -11,6 +11,7 @@
   </a>
   
   <a href="mailto:bkishorkumar31@gmail.com">
+    
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="#"> <!-- TODO: replace # with your portfolio URL -->
