@@ -2,7 +2,6 @@
 
 <h3 align="center">Full Stack Java Developer | Spring Boot • React • MySQL</h3>
 
-
 <p align="center">
   
   <a href="https://www.linkedin.com/in/kishorkumar28/">
