@@ -17,7 +17,6 @@
 </p>
 
 ---
-
 ### 🧑‍💻 About Me
 - 🎓 B.Tech in Artificial Intelligence & Data Science, Dhirajlal Gandhi College of Technology (2022–2026)
 - 🚀 Currently sharpening Full Stack Development skills at **Tap Academy, Bangalore**
